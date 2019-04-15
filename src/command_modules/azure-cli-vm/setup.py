@@ -40,7 +40,7 @@ DEPENDENCIES = [
     'azure-mgmt-network==2.7.0',
     'azure-multiapi-storage==0.2.3',
     'azure-mgmt-marketplaceordering==0.1.0',
-    'azure-mgmt-imagebuilder==0.1.0',
+    'azure-mgmt-imagebuilder==0.2.0',
     'azure-cli-core'
 ]
 
